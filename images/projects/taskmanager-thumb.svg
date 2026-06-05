@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#1a1a1a"/>
+  <rect x="250" y="160" width="300" height="180" rx="12" fill="#2a2a2a" stroke="#444" stroke-width="2"/>
+  <text x="400" y="250" text-anchor="middle" fill="#666" font-size="16" font-family="sans-serif">Task Manager</text>
+  <text x="400" y="270" text-anchor="middle" fill="#555" font-size="12" font-family="sans-serif">AI-Powered Web App</text>
+</svg>
